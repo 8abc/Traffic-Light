@@ -20,15 +20,15 @@
   cursor: pointer;
 }
 
-#red {
+.red.light {
   background-color: #990000;
 }
-#yellow {
+.yellow.light {
   background-color: #ffff00;
 }
-#green {
+.green.light {
   background-color: #009900;
 }
-#clicked {
-  background-color: #f8ffcc 0px 0px 50px 20px;
+.clicked {
+  box-shadow: #ffff02 0px 0px 50px 20px;
 }
